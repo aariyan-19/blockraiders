@@ -3,12 +3,20 @@ even we did use many technologies like HTML,CSS, BOOTSTRAP,JS, node js, reactjs 
 HERE'S WITH FULL DETAILS>>>>>>>>
 
 Personal Finance Buddy>>>>>:-
-
+.
+.
+.
+.
 
 Overview OF PROJECT:-
 
 Personal Finance Buddy is a smart and simple web app designed to help students and young adults stay on top of their finances. Whether you're managing a tight allowance or saving up for a big goal like a concert ticket, this tool gives you the clarity and control you need over your money.
 
+.
+.
+.
+.
+.
 
 Features>:-
 
@@ -22,6 +30,11 @@ Spending Alerts – Stay informed with real-time alerts when you're nearing a bu
 
 Visual Dashboards – See where your money goes with clean, interactive charts.
 
+.
+.
+.
+.
+.
 
 
 Tech Stack>:-
@@ -31,8 +44,12 @@ Frontend: (Add your stack – e.g., React, Tailwind CSS)
 Backend: (Add backend tech – e.g., Node.js, Firebase, Express)
 
 Database: (e.g., MongoDB, Firestore)
-
-
+.
+.
+.
+.
+.
+.
 
 Target Users>:-
 
@@ -42,6 +59,12 @@ Target Users>:-
 
 3>Anyone starting their personal finance journey
 
+.
+.
+.
+.
+.
+.
 
 
 To Run the CODE Locally>:-
@@ -62,6 +85,12 @@ npm install
 
 npm start
 
+.
+.
+.
+.
+.
+.
 
 
 
